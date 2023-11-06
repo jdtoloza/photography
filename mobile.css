@@ -15,8 +15,8 @@ and (max-width: 1024px){
 
     
     .portrait div {
-        width: auto;
-        height: 75vh;
+        width: 45vw;
+        height: auto;
     }
      .landscape div{
         width: 90vw;
